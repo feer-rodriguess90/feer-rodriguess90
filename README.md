@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @feer-rodriguess90
 - 👀 I’m interested in Crypyocurrency, Cybersecurity, Artificial Intelligence, Machine Learning, Robotics, Cloud Computing.
 - 🌱 I’m a beginner learning HTLM, C, C++, C#, Node.js, Python and JavaScript. 
-- 💞️ I’m looking to collaborate on new projects.
+- 💞️ I’m looking for to collaborate on new projects.
 - 📫 How to reach me feer.rodriguess90@gmail.com
 
 <!---
