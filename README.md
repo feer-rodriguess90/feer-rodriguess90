@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @feer-rodriguess90
-- 👀 I’m interested in Data Science, Artificial Intelligence, Machine Learning, Robotics, Cloud Computing.
+- 👋 Hi, I’m Fernanda Rodrigues
+- 💻 I’m a Data Science student.
 - 🌱 I’m currently learning Python and SQL. 
-- 💞️ I’m looking for an entry level opportunity
+- 💞️ I’m looking for an entry-level opportunity
 - 📫 How to reach me feer.rodriguess90@gmail.com
 
 <div style="display: inline_block"><br>
