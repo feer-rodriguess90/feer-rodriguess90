@@ -16,6 +16,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/micro
 
 <div>
   <a href = "mailto:feer.rodriguess90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/fernanda-rodrigues-5427611a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/fernanda-rodrigues-5427611a1/](https://www.linkedin.com/in/datavizwithfer/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://twitter.com/DataVizWithFer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" ></a>
 </div>
