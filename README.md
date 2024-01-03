@@ -26,5 +26,5 @@ Passionate about teaching languages, technology, and finance :heart:
 </div>
 
 <br />
-- Thanks for visiting. 
+- Thanks for visiting. <br />
 - Enjoy it!! o/
