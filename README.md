@@ -4,7 +4,7 @@
 # Welcome to my GitHub!
 ## I'm Fernanda Rodrigues! Let me tell you a bit about myself. :D
 
-Passionate Software Developer with a dedicated focus on advancing in Data Science. 📊 💻
+Passionate Software Developer with a dedicated focus on advancing in Data Science. 📊 
 
 
 <div style="display: inline_block"><br>
