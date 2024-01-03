@@ -25,6 +25,6 @@ Passionate about teaching languages, technology, and finance :heart:
   <a href = "https://medium.com/@DataVizWithFer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </div>
 
-
+<br />
 - Thanks for visiting. 
 - Enjoy it!! o/
