@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="150" src="https://github.com/feer-rodriguess90/feer-rodriguess90/blob/main/Logo/logo.datavizwithfer.png">
+<img align="right" alt="Coding" width="130" src="https://github.com/feer-rodriguess90/feer-rodriguess90/blob/main/Logo/logo.datavizwithfer.png">
 
 # Welcome to my GitHub!
 ## I'm Fernanda Rodrigues! Let me tell you a bit about myself. :D
