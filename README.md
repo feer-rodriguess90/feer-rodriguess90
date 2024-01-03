@@ -4,11 +4,9 @@
 # Welcome!
 ## I'm Fernanda! Let me tell you a bit about myself. :D
 
-Software Developer | Python | SQL 💻
+Passionate software developer with a dedicated focus on advancing in data science. 📊 
 
-Passionate about teaching languages, technology, and finance :heart: 
-
-
+Python | SQL 💻
 
 
 <div style="display: inline_block"><br>
