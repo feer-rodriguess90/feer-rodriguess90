@@ -2,8 +2,9 @@
 <img align="right" alt="Coding" width="130" src="https://github.com/feer-rodriguess90/feer-rodriguess90/blob/main/Logo/logo.datavizwithfer.png">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Almas-Ali/Almas-Ali/master/static/wave.gif"
-    width="30px" height="30px">, I'm Fernanda Rodrigues Ali</h1>
-## Let me tell you a bit about myself. :D
+    width="30px" height="30px">, I'm Fernanda Rodrigues </h1>
+    
+## Let me tell you a bit about myself. :D 
 
 Passionate Software Developer with a dedicated focus on advancing in Data Science. 📊 
 
