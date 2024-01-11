@@ -4,9 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Almas-Ali/Almas-Ali/master/static/wave.gif"
     width="30px" height="30px">, I'm Fernanda Rodrigues </h1>
     
-## Let me tell you a bit about myself. :D 
-
-Passionate Software Developer with a dedicated focus on advancing in Data Science. 📊 
+## Passionate Software Developer with a dedicated focus on advancing in Data Science. 📊 
 
 
 <div style="display: inline_block"><br>
