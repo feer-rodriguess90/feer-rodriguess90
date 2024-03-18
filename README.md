@@ -23,6 +23,7 @@
   <a href= "https://api.whatsapp.com/send?phone=5551995611211&tt=Hello!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href = "https://medium.com/@DataVizWithFer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href = "https://twitter.com/DataVizWithFer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href = "https://public.tableau.com/app/profile/fernanda.cunha/vizzesr"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
   <img align="right" alt="Coding" width="100" src="https://github.com/feer-rodriguess90/feer-rodriguess90/blob/main/Logo/logo.datavizwithfer.png">
 </div>
 
