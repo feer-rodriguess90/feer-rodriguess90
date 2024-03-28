@@ -15,6 +15,7 @@
   <img align="center" alt="Fer-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
       
 ## Check out my [Portfolio Website](https://feer-rodriguess90.github.io/) 
+📚 [Project Guide here](https://github.com/feer-rodriguess90/Portfolio-Guide).
 ## You can also reach me at 
 
 <div>
