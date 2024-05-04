@@ -1,3 +1,6 @@
+
+![Header](https://i.ibb.co/8bgpfXz/header-Perfil.png)
+
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Almas-Ali/Almas-Ali/master/static/wave.gif"
         width="30px" height="30px">, I'm Fernanda Rodrigues </h1>
     
@@ -23,9 +26,8 @@
   <a href="https://www.linkedin.com/in/datavizwithfer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href= "https://api.whatsapp.com/send?phone=5551995611211&tt=Hello!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href = "https://medium.com/@DataVizWithFer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href = "https://twitter.com/DataVizWithFer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href = "https://public.tableau.com/app/profile/fernanda.cunha/vizzesr"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
-  <img align="right" alt="Coding" width="100" src="https://github.com/feer-rodriguess90/feer-rodriguess90/blob/main/Logo/logo.datavizwithfer.png">
+  <a href = "https://twitter.com/DataVizWithFer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </div>
 
 <br />
