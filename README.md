@@ -1,5 +1,5 @@
 
-![Header](https://i.ibb.co/kxvb69k/HeaderFR.png)
+![Header](https://i.ibb.co/DwCVTsS/HeaderFR.png)
 
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Almas-Ali/Almas-Ali/master/static/wave.gif"
         width="30px" height="30px">, I'm Fernanda Rodrigues </h1>
