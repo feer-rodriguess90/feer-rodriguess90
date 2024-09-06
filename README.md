@@ -15,10 +15,18 @@
   <img align="center" alt="Fer-visualstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
   <img align="center" alt="Fer-jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Fer-bootsrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="center" alt="Fer-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Fer-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> 
+</div> 
+
       
 ## Check out my [Portfolio Website](https://feer-rodriguess90.github.io/) 
 📚 [Project Guide here](https://github.com/feer-rodriguess90/Portfolio-Guide).
+
+
+<br>
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=feer-rodriguess90&layout=compact&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF)
+
 ## You can also reach me at 
 
 <div>
@@ -29,6 +37,7 @@
   <a href = "https://public.tableau.com/app/profile/fernanda.cunha/vizzesr"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
   <a href = "https://twitter.com/DataVizWithFer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </div>
+
 
 <br />
 - Thanks for visiting. <br />
